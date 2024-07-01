@@ -1,14 +1,15 @@
 
 ## Array
+  * [Car Pool](https://github.com/TheAlgorithms/Dart/blob/master/array/car_pool.dart)
+  * [Move Zeroes](https://github.com/TheAlgorithms/Dart/blob/master/array/move_zeroes.dart)
+  * [Pivot Index](https://github.com/TheAlgorithms/Dart/blob/master/array/pivot_index.dart)
   * [Sorted Squared Array](https://github.com/TheAlgorithms/Dart/blob/master/array/sorted_squared_array.dart)
   * [Two Sum](https://github.com/TheAlgorithms/Dart/blob/master/array/two_sum.dart)
   * [Validate Subsequence](https://github.com/TheAlgorithms/Dart/blob/master/array/validate_subsequence.dart)
 
 ## Backtracking
+  * [N-Queen](https://github.com/TheAlgorithms/Dart/blob/master/backtracking/n-queen.dart)
   * [Open Knight Tour](https://github.com/TheAlgorithms/Dart/blob/master/backtracking/open_knight_tour.dart)
-
-## Chinese Remainder Theorem
-  * [Chinese Remainder Theorem](https://github.com/TheAlgorithms/Dart/blob/master/chinese_remainder_theorem/chinese_remainder_theorem.dart)
 
 ## Conversions
   * [Binary To Decimal](https://github.com/TheAlgorithms/Dart/blob/master/conversions/binary_to_decimal.dart)
@@ -41,8 +42,7 @@
   * Linked List
     * [Cycle In Linked List](https://github.com/TheAlgorithms/Dart/blob/master/data_structures/linked_list/cycle_in_linked_list.dart)
     * [Linked List](https://github.com/TheAlgorithms/Dart/blob/master/data_structures/linked_list/linked_list.dart)
-  * Quad Tree
-    * [Quad Tree](https://github.com/TheAlgorithms/Dart/blob/master/data_structures/quad_tree/quad_tree.dart)
+    * [Merge Sorted List](https://github.com/TheAlgorithms/Dart/blob/master/data_structures/linked_list/merge_sorted_list.dart)
   * Queue
     * [Circular Queue](https://github.com/TheAlgorithms/Dart/blob/master/data_structures/Queue/Circular_Queue.dart)
     * [List Queue](https://github.com/TheAlgorithms/Dart/blob/master/data_structures/Queue/List_Queue.dart)
@@ -56,9 +56,12 @@
   * [01Knapsack Recursive](https://github.com/TheAlgorithms/Dart/blob/master/dynamic_programming/01knapsack_recursive.dart)
   * [Coin Change](https://github.com/TheAlgorithms/Dart/blob/master/dynamic_programming/coin_change.dart)
   * [Kadanes Algorithm](https://github.com/TheAlgorithms/Dart/blob/master/dynamic_programming/kadanes_algorithm.dart)
+  * [Longest Common Subsequence](https://github.com/TheAlgorithms/Dart/blob/master/dynamic_programming/longest_common_subsequence.dart)
+  * [Longest Common Substring](https://github.com/TheAlgorithms/Dart/blob/master/dynamic_programming/longest_common_substring.dart)
   * [Min Number Of Jumps](https://github.com/TheAlgorithms/Dart/blob/master/dynamic_programming/min_number_of_jumps.dart)
 
 ## Graphs
+  * [Area Of Island](https://github.com/TheAlgorithms/Dart/blob/master/graphs/area_of_island.dart)
   * [Breadth First Search](https://github.com/TheAlgorithms/Dart/blob/master/graphs/breadth_first_search.dart)
   * [Depth First Search](https://github.com/TheAlgorithms/Dart/blob/master/graphs/depth_first_search.dart)
   * [Nearest Neighbour Algorithm](https://github.com/TheAlgorithms/Dart/blob/master/graphs/nearest_neighbour_algorithm.dart)
@@ -106,6 +109,7 @@
 ## Other
   * [Ackermann](https://github.com/TheAlgorithms/Dart/blob/master/other/ackermann.dart)
   * [Binpow](https://github.com/TheAlgorithms/Dart/blob/master/other/binpow.dart)
+  * [Chinese Remainder Theorem](https://github.com/TheAlgorithms/Dart/blob/master/other/chinese_remainder_theorem.dart)
   * [Collatz](https://github.com/TheAlgorithms/Dart/blob/master/other/collatz.dart)
   * [Fisher Yates Shuffle](https://github.com/TheAlgorithms/Dart/blob/master/other/fisher_yates_shuffle.dart)
   * [Fizzbuzz](https://github.com/TheAlgorithms/Dart/blob/master/other/FizzBuzz.dart)
@@ -133,6 +137,8 @@
     * [Sol17](https://github.com/TheAlgorithms/Dart/blob/master/project_euler/problem_17/sol17.dart)
   * Problem 2
     * [Sol2](https://github.com/TheAlgorithms/Dart/blob/master/project_euler/problem_2/sol2.dart)
+  * Problem 20
+    * [Sol20](https://github.com/TheAlgorithms/Dart/blob/master/project_euler/problem_20/sol20.dart)
   * Problem 3
     * [Sol3](https://github.com/TheAlgorithms/Dart/blob/master/project_euler/problem_3/sol3.dart)
   * Problem 4
@@ -162,6 +168,7 @@
   * [Bubble Sort](https://github.com/TheAlgorithms/Dart/blob/master/sort/bubble_Sort.dart)
   * [Cocktail Sort](https://github.com/TheAlgorithms/Dart/blob/master/sort/cocktail_sort.dart)
   * [Comb Sort](https://github.com/TheAlgorithms/Dart/blob/master/sort/comb_sort.dart)
+  * [Count Sort](https://github.com/TheAlgorithms/Dart/blob/master/sort/count_sort.dart)
   * [Gnome Sort](https://github.com/TheAlgorithms/Dart/blob/master/sort/gnome_Sort.dart)
   * [Heap Sort](https://github.com/TheAlgorithms/Dart/blob/master/sort/heap_Sort.dart)
   * [Insert Sort](https://github.com/TheAlgorithms/Dart/blob/master/sort/insert_Sort.dart)
@@ -174,7 +181,11 @@
   * [Tim Sort](https://github.com/TheAlgorithms/Dart/blob/master/sort/tim_Sort.dart)
 
 ## Strings
+  * [Isomorphic Strings](https://github.com/TheAlgorithms/Dart/blob/master/strings/isomorphic_strings.dart)
   * [Knuth Morris Prat](https://github.com/TheAlgorithms/Dart/blob/master/strings/knuth_morris_prat.dart)
   * [Remove Duplicates](https://github.com/TheAlgorithms/Dart/blob/master/strings/remove%20duplicates.dart)
   * [Reverse String](https://github.com/TheAlgorithms/Dart/blob/master/strings/reverse_string.dart)
   * [Reverse Words Of String](https://github.com/TheAlgorithms/Dart/blob/master/strings/reverse_words_of_string.dart)
+
+## Trees
+  * [Path Sum](https://github.com/TheAlgorithms/Dart/blob/master/trees/path_sum.dart)
